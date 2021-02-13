@@ -1,6 +1,8 @@
 # Data-Terbuka-Indonesia
 
-<img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%" align="center">
+<p align="center">
+<img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%"/>
+</p>
 
 ## National
 [Badan Pusat Statistik](https://www.bps.go.id) | [Badan Informasi Geospasial](https://www.big.go.id) | [Satu Data Indonesia](https://data.go.id) | [Pusat Data Desa Indonesia](https://datadesa.id) | [Kata Data](https://databoks.katadata.co.id)
@@ -57,7 +59,7 @@
 + [**North Maluku**](https://malut.bps.go.id): [Sofifi](https://tikepkota.bps.go.id) (capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
 
 #### Bali
-+ [**Bali**](https://bali.bps.go.id/): [Denpasar](https://denpasarkota.bps.go.id/)(capital)
++ [**Bali**](https://bali.bps.go.id/): [Denpasar](https://denpasarkota.bps.go.id/)(capital), [Denpasar](https://denpasarkota.bps.go.id/)(capital)
 
 #### Nusa Tenggara
 + [**West Nusa Tenggara**](https://ntb.bps.go.id): [Mataram](https://mataramkota.bps.go.id) (capital) | [Bima](https://bimakota.bps.go.id/)
@@ -136,15 +138,7 @@
 ## Survey Institute
 [Lingkar Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/) | [Charta Politika](http://www.chartapolitika.com/) | [Litbang Kompas](http://www.kompasdata.id/)
 
-<p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
-</p>
-
 ## Banyuwangi
-
-<p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="30%" href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi">
-</p>
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
 + [Banyuwangi Geographic Information System](http://gis.banyuwangikab.go.id/)
