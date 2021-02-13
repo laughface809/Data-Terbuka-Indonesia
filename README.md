@@ -1,7 +1,6 @@
 # Data-Terbuka-Indonesia
 
-<img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Lambang_Badan_Pusat_Statistik_%28BPS%29_Indonesia.svg" width="10%" height="10%">
+<img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%" align="center">
 
 ## National
 [Badan Pusat Statistik](https://www.bps.go.id) | [Badan Informasi Geospasial](https://www.big.go.id) | [Satu Data Indonesia](https://data.go.id) | [Pusat Data Desa Indonesia](https://datadesa.id) | [Kata Data](https://databoks.katadata.co.id)
