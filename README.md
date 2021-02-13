@@ -1,4 +1,4 @@
-# Data-Terbuka-Indonesia
+# Indonesia-Open-Data
 
 <p align="center">
 <img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%"/>
@@ -32,7 +32,7 @@
 + [**Bangka Belitung Islands**](https://babel.bps.go.id): [Pangkalpinang](https://pangkalpinangkota.bps.go.id) (capital)
 + [**Lampung**](https://lampung.bps.go.id): [Bandar Lampung](https://bandarlampungkota.bps.go.id) (capital) | [Metro](https://metrokota.bps.go.id/)
 
-#### Jawa
+#### Java
 + [**Banten**](https://banten.bps.go.id): [Serang](https://serangkota.bps.go.id) (capital) | [Cilegon](https://cilegonkota.bps.go.id/) | [Tangerang Selatan](https://tangselkota.bps.go.id/) | [Tangerang](https://tangerangkota.bps.go.id/)
 + [**D.K.I. Jakarta**](https://jakarta.bps.go.id): [Center Jakarta](https://jakpuskota.bps.go.id) (capital) | [Jakarta Barat](https://jakbarkota.bps.go.id/) | [Jakarta Selatan](https://jakselkota.bps.go.id/) | [Jakarta Timur](https://jaktimkota.bps.go.id/) | [Jakarta Utara](https://jakutkota.bps.go.id/)
 + [**West Java**](https://jabar.bps.go.id): [Bandung](https://bandungkota.bps.go.id) (capital) | [Bekasi](https://bekasikota.bps.go.id/) | [Bogor](https://bogorkota.bps.go.id/) | [Cimahi](https://cimahikota.bps.go.id/) | [Cirebon](https://cirebonkota.bps.go.id/) | [Depok](https://depokkota.bps.go.id/) | [Sukabumi](https://sukabumikab.bps.go.id/) | [Tasikmalaya](https://tasikmalayakota.bps.go.id/) | [Banjar](https://banjarkota.bps.go.id/)
