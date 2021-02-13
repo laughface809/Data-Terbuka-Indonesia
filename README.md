@@ -1,4 +1,4 @@
-# Indonesia-Open-Data
+# Menuju Satu Data Indonesia
 
 <p align="center">
 <img src="https://data.go.id/assets/images/logo/satudata-padding.png" width="10%" height="10%"/>
