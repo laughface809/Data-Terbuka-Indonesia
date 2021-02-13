@@ -5,7 +5,7 @@
 </p>
 
 ## National
-[Badan Pusat Statistik](https://www.bps.go.id) | [Badan Informasi Geospasial](https://www.big.go.id) | [Satu Data Indonesia](https://data.go.id) | [Pusat Data Desa Indonesia](https://datadesa.id) | [Kata Data](https://databoks.katadata.co.id)
+[Badan Pusat Statistik](https://www.bps.go.id) | [Badan Informasi Geospasial](https://www.big.go.id) | [Satu Data Indonesia](https://data.go.id) | [Pusat Data Desa Indonesia](https://datadesa.id) | [Kata Data](https://databoks.katadata.co.id) | [KPU](http://opendata.kpu.go.id) | [Kominfo](http://data.kominfo.go.id)
 
 ### Ministry
 [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2) | [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
@@ -14,10 +14,10 @@
 [data.world](https://data.world/datasets/indonesia) | [data.worldbank.org](https://data.worldbank.org/country/indonesia) | [wri-indonesia.org](https://wri-indonesia.org/en/resources) | [data.humdata.org](https://data.humdata.org/group/idn) | [world data atlas](https://knoema.com/atlas/Indonesia/datasets)
 
 ### Region
-[D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
+[D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id) |
 
-### City
-[Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id)
+### City \ Districts
+[Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id) | [Jogja](http://opendata.jogjakota.go.id) | [Banda Aceh](http://data.bandaacehkota.go.id) | [Bogor](http://data.kotabogor.go.id) | [Karanganyar](http://opendata.karanganyarkab.go.id) | [Demak](http://data.demakkab.go.id) | [Tasikmalaya](http://data.tasikmalayakota.go.id) | [Blora](http://opendata.blorakab.go.id) | [Surakarta](http://data.surakarta.go.id) | [Pekalongan](http://data.pekalongankab.go.id) | [Majalengka](http://data.majalengkakab.go.id) | [Semarang](http://opendata.semarangkota.go.id)
 
 ## Statistics Indonesia (Badan Pusat Statistik)
 #### Sumatra
