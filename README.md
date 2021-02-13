@@ -135,14 +135,15 @@
 + [**West Papua**](): [Manokwari]() (capital)
 
 
-## Survey Institute
-[Lingkar Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/) | [Charta Politika](http://www.chartapolitika.com/) | [Litbang Kompas](http://www.kompasdata.id/)
-
-## Banyuwangi
+#### Banyuwangi
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
 + [Banyuwangi Geographic Information System](http://gis.banyuwangikab.go.id/)
 + [Pemerintah Kabupaten Bayuwangi](https://www.banyuwangikab.go.id/)
+
+
+## Survey Institute
+[Lingkar Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/) | [Charta Politika](http://www.chartapolitika.com/) | [Litbang Kompas](http://www.kompasdata.id/)
 
 ## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
