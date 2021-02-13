@@ -17,7 +17,7 @@
 [D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id) |
 
 ### City \ Districts
-[Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id) | [Jogja](http://opendata.jogjakota.go.id) | [Banda Aceh](http://data.bandaacehkota.go.id) | [Bogor](http://data.kotabogor.go.id) | [Karanganyar](http://opendata.karanganyarkab.go.id) | [Demak](http://data.demakkab.go.id) | [Tasikmalaya](http://data.tasikmalayakota.go.id) | [Blora](http://opendata.blorakab.go.id) | [Surakarta](http://data.surakarta.go.id) | [Pekalongan](http://data.pekalongankab.go.id) | [Majalengka](http://data.majalengkakab.go.id) | [Semarang](http://opendata.semarangkota.go.id)
+[Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id) | [Jogja](http://opendata.jogjakota.go.id) | [Banda Aceh](http://data.bandaacehkota.go.id) | [Bogor](http://data.kotabogor.go.id) | [Karanganyar](http://opendata.karanganyarkab.go.id) | [Demak](http://data.demakkab.go.id) | [Tasikmalaya](http://data.tasikmalayakota.go.id) | [Blora](http://opendata.blorakab.go.id) | [Surakarta](http://data.surakarta.go.id) | [Pekalongan](http://data.pekalongankab.go.id) | [Majalengka](http://data.majalengkakab.go.id) | [Semarang](http://opendata.semarangkota.go.id) | [Denpasar](https://pusatdata.denpasarkota.go.id/)
 
 ## Statistics Indonesia (Badan Pusat Statistik)
 #### Sumatra
